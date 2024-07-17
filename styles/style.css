@@ -4,3 +4,24 @@ body{
     font-family: "Public Sans", sans-serif;
 
 }
+/* default style */
+*{
+margin: 0;
+}
+.container{
+    width: 90%;
+    margin: 5rem auto;
+    border: 1rem;
+    
+}
+/* navbar style */
+.nav-bar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.logo{
+    color: rgb(230, 83, 60);
+    font-style: italic;
+}
