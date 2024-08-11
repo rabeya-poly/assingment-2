@@ -255,11 +255,11 @@ display: none;
     .extra-mile{
       width: 100%;
       height: 100%;
-      padding-left: 30%;
+      /* padding-left: 30%; */
       align-items: center;
-     
       text-align: center;
       justify-content: center;
+      justify-items: center;
      
     }
     /* BMI calculator style */
